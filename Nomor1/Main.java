@@ -1,3 +1,5 @@
+package Nomor1;
+
 import java.util.Scanner;
 
 // Class Account sebagai parent class
