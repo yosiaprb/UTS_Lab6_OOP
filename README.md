@@ -9,7 +9,7 @@ Nomor 2
 
 Nomor 3
 
-
+![Screenshot 2024-05-21 211222](https://github.com/yosiaprb/UTS_Lab6_OOP/assets/115151509/d08b95d7-464b-45d0-843f-aee509a53eb8)
 
 Nomor 4
 
